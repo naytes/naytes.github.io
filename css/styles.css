@@ -1,11 +1,7 @@
 .jumbotron p{
-    font-size: 17px;
     font-weight: 100;
 }
 
-#test{
-    font-size: 80px;
-}
 .jumbotron .h1, .jumbotron h1 {
     font-size: 70%;
 }
