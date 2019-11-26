@@ -1,7 +1,7 @@
 .jumbotron p{
     font-weight: 100;
+    font-size: 70%;
 }
 
 .jumbotron .h1, .jumbotron h1 {
-    font-size: 70%;
 }
