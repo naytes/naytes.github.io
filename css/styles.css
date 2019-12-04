@@ -57,3 +57,18 @@ li{
 #myList{
     padding-top: 50px;
 }
+
+#footer1{
+    background-color: #333;
+}
+#footerInfo{
+    color: white;
+    font-size: 17px;
+}
+a{
+    color: rgb(201, 201, 201);
+    text-decoration: underline;
+}
+
+
+
