@@ -69,6 +69,9 @@ a{
     color: rgb(201, 201, 201);
     text-decoration: underline;
 }
-
+p{
+    line-height: 30px;
+    padding-bottom: 20px;
+}
 
 
