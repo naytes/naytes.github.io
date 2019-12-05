@@ -69,9 +69,18 @@ a{
     color: rgb(201, 201, 201);
     text-decoration: underline;
 }
-p{
+#lineHeight{
     line-height: 30px;
     padding-bottom: 20px;
 }
 
-
+.lineHeight2{
+    line-height: 5px;
+    padding-bottom: 20px;
+}
+#lineHeight3{
+    padding-top: 20px;
+}
+#sectionTitle{
+    margin-top: 0%;
+}
