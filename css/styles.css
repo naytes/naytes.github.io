@@ -91,7 +91,7 @@ li{
     font-size: 15px;
 }
 
-#myList{
+.myList{
     padding-top: 50px;
 }
 
@@ -109,7 +109,7 @@ a{
     text-decoration: underline;
 }
 
-#lineHeight{
+.lineHeight{
     line-height: 30px;
     padding-bottom: 20px;
 }
@@ -119,11 +119,15 @@ a{
     padding-bottom: 20px;
 }
 
-#lineHeight3{
+#extraTop{
     padding-top: 20px;
 }
 
-#sectionTitle{
+.lineHeight3{
+    padding-top: 20px;
+}
+
+.sectionTitle{
     margin-top: 0%;
 }
 
